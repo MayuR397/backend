@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Classic Blue Denim",
+    "description": "Timeless straight-cut blue jeans with perfect fit",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Vintage Wash Relaxed Fit",
+    "description": "Comfortable relaxed fit with authentic vintage wash",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Slim Dark Indigo",
+    "description": "Modern slim-fit dark indigo jeans",
+    "price": 94.99,
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Distressed Boyfriend",
+    "description": "Trendy boyfriend jeans with artistic distressing",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "High-Rise Skinny",
+    "description": "Figure-hugging high-rise skinny jeans",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Raw Denim Straight",
+    "description": "Premium raw denim with classic straight cut",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1602293589930-45aad59ba3ab",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Light Wash Wide Leg",
+    "description": "Trendy wide-leg jeans in light wash",
+    "price": 109.99,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Black Ripped Skinny",
+    "description": "Edgy black skinny jeans with ripped details",
+    "price": 84.99,
+    "image": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Bootcut Classic",
+    "description": "Traditional bootcut jeans in medium wash",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Cargo Style Denim",
+    "description": "Utility-inspired cargo jeans with multiple pockets",
+    "price": 139.99,
+    "image": "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Mom Fit Vintage",
+    "description": "Classic mom jeans with authentic vintage feel",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1599447541321-96f14fd5f0b6",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Premium Selvedge",
+    "description": "High-end selvedge denim with custom finish",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1598554747436-c9293d6a588f",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Cropped Flare",
+    "description": "Modern cropped flare jeans with raw hem",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Stretch Comfort Plus",
+    "description": "Ultra-comfortable stretch denim for all-day wear",
+    "price": 94.99,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Tapered Fit Premium",
+    "description": "Modern tapered fit with premium wash",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+    "category": "jeans",
+    "isFeatured": true
+  },
+  {
+    "name": "Classic White Crew Neck",
+    "description": "Essential white t-shirt with premium cotton blend",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Vintage Black V-Neck",
+    "description": "Soft and comfortable black v-neck t-shirt",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Premium Gray Fitted",
+    "description": "Modern fit gray t-shirt with stretch fabric",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Navy Blue Athletic",
+    "description": "Performance t-shirt for active lifestyle",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Organic Cotton Basic",
+    "description": "Eco-friendly t-shirt made from organic cotton",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Striped Designer Tee",
+    "description": "Stylish striped pattern with modern cut",
+    "price": 54.99,
+    "image": "https://images.unsplash.com/photo-1523381294911-8d3cead13475",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Urban Graphic Print",
+    "description": "Contemporary graphic design on premium fabric",
+    "price": 45.99,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Slim Fit Henley",
+    "description": "Modern henley style with perfect fit",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Sport Performance",
+    "description": "Moisture-wicking fabric for active wear",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1571945153237-4929e783af4a",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Minimalist Design",
+    "description": "Clean and simple aesthetic for everyday wear",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Premium Pocket Tee",
+    "description": "Classic t-shirt with convenient chest pocket",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1527719327859-c6ce80353573",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Limited Edition Print",
+    "description": "Exclusive design with artistic print",
+    "price": 64.99,
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Eco Bamboo Blend",
+    "description": "Sustainable bamboo fabric blend t-shirt",
+    "price": 54.99,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27",
+    "category": "t-shirts",
+    "isFeatured": true
+  },
+  {
+    "name": "Retro Collection",
+    "description": "Vintage-inspired design with modern comfort",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a",
+    "category": "t-shirts",
+    "isFeatured": false
+  },
+  {
+    "name": "Premium Fitted V-Neck",
+    "description": "Luxurious fabric with perfect v-neck cut",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1",
+    "category": "t-shirts",
+    "isFeatured": true
+  }
+]
