@@ -23,7 +23,7 @@ const __dirname = path.resolve();
 // CORS Middleware
 app.use(
     cors({
-        origin: "https://frontend-alpha-snowy-74.vercel.app/", // Allow requests from this frontend URL
+        origin: "https://frontend-alpha-snowy-74.vercel.app", // Allow requests from this frontend URL
         methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed methods
         credentials: true, // Allow cookies and other credentials
         allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
